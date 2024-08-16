@@ -1,5 +1,4 @@
 # Lean-4-Literature
-A curated list of Lean 4 literature. 
 
 ## Beginner friendly
 1. [Theorem Proving in Lean 4](https://leanprover.github.io/theorem_proving_in_lean4/) - Use Lean 4 as a proof assistant to prove theorems.
