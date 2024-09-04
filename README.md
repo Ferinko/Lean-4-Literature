@@ -6,6 +6,7 @@
 3. [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/index.html) - Use Lean 4 to do 'common' mathematics.
 4. [The Mechanics of Proof](https://hrmacbeth.github.io/math2001/index.html) - Use Lean 4 to do 'common' mathematics.
 5. [The Hitchhiker's Guide to Logical Verification](https://github.com/lean-forward/logical_verification_2024) - Use Lean 4 to do 'common' computer science.
+6. [Logic and Proof](https://leanprover-community.github.io/logic_and_proof/) - Use Lean 4 to do logic in Lean 4. 
 
 ## Intermediate and onwards
 1. [Metaprogramming in Lean 4](https://leanprover-community.github.io/lean4-metaprogramming-book/) - Extend Lean 4 with custom functionality.
