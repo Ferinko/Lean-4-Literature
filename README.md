@@ -44,4 +44,4 @@ end Good
 3. Only use `simp [...]` (and its derivatives, a'la `aesop`) to discharge the enclosing goal - i.e. as the final tactic in a goal.
    Use `simp only` otherwise. Invoking `simp?` gives you the appropriate `simp only` to use, if you 'must' use simp in the middle of a proof.
 
-I mostly use this for my own reference, but I am happy to accept PRs.
+A part of my job is to address Lean-specific issues - I use this repository for my own reference, but I am happy to accept PRs. If they gucci.
