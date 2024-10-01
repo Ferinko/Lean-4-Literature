@@ -15,7 +15,8 @@
 
 This list is a superset of documentation recommended at [the official Lean 4 website](https://lean-lang.org/documentation/).
 
-# Lean-4-not-so-Literature (WARNING: subjective and broad; grain of salt recommended)
+# Lean-4-not-so-Literature
+WARNING: subjective and broad; grain of salt recommended, reader discretion required.
 
 List of thoughts/guidelines. While I may use examples to explain what to do / not to do - I do not say _why_ for the sake of brevity.
 _Why_ left as an exercise for the reader.
