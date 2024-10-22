@@ -12,6 +12,7 @@
 1. [Metaprogramming in Lean 4](https://leanprover-community.github.io/lean4-metaprogramming-book/) - Extend Lean 4 with custom functionality.
 2. [Type Checking in Lean 4](https://ammkrn.github.io/type_checking_in_lean4/title_page.html) - Learn about Lean 4 metatheory.
 3. [Scientific Computing in Lean - **WIP**](https://lecopivo.github.io/scientific-computing-lean/) - Modern approach to scientific computing melding convenience of use, correctness, ~~and performance~~.
+4. [The Lean Language Reference](https://lean-lang.org/doc/reference/latest/) - The language reference.
 
 This list is a superset of documentation recommended at [the official Lean 4 website](https://lean-lang.org/documentation/).
 
