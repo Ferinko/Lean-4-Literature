@@ -17,6 +17,12 @@
 
 This list is a superset of documentation recommended at [the official Lean 4 website](https://lean-lang.org/documentation/).
 
+## Misc
+1. [The Mathlib Initiative](https://mathlib-initiative.org/) - The initiative behind Mathlib, Lean's mathematical library.
+2. [cslib github](https://github.com/leanprover/cslib) - Mathlib's evil twin specialised for computer science.
+3. [Lean FRO](https://lean-lang.org/fro/) - Lean big wigs.
+4. [Lean 4 community](https://leanprover-community.github.io/) - De facto the first successful attempt at aggregating Lean related stuff.
+
 # Lean-4-not-so-Literature
 WARNING: subjective and broad; grain of salt recommended, reader discretion required.
 
